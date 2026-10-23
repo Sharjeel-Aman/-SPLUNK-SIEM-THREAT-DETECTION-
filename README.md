@@ -254,6 +254,10 @@ index=test_index | stats count by sourcetype
 - **Telemetry Parsing:** Gained hands-on experience parsing Windows Security Logs and Sysmon event structures.
 - **Alert Noise Reduction:** Understood the necessity of threshold-based alerting over presence-based alerting to prevent analyst burnout.
 - **Analytical Discipline:** Reinforced the rule of verifying threat activity via log correlation before drawing definitive conclusions.
+👨‍💻 Author
+
+Sharjeel Aman
+Cybersecurity Student | Aspiring SOC Analyst
 
 ### 🏷️ Related Keywords
 
